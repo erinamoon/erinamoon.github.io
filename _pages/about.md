@@ -15,6 +15,6 @@ In my research, I explore decision-making in sociotechnical systems and the rami
 I hold a Master of Information from the University of Toronto and a Bachelor of Arts in Economics from the University of Chicago. 
 
 ## Research News
-- Our paper [“Rethinking “Risk” in Algorithmic Systems Through A Computational Narrative Analysis of Casenotes in Child-Welfare”](https://dl.acm.org/doi/abs/10.1145/3544548.3581308) was accepted at CHI’2023 and received the Best Paper Award 🏆
+- Our paper [“Rethinking “Risk” in Algorithmic Systems Through A Computational Narrative Analysis of Casenotes in Child-Welfare”](https://dl.acm.org/doi/abs/10.1145/3544548.3581308) was accepted at CHI’2023 and received the **Best Paper Award** 🏆
 - I attended the Human-Centered AI (HCAI) workshop at NeurIPS’22 [position paper](https://erinamoon.github.io/files/Future_for_AIGovernance.pdf)
 - Our paper [“Unpacking Invisible Work Practices, Constraints, and Latent Power Relationships in Child Welfare through Casenote Analysis”](https://dl.acm.org/doi/10.1145/3491102.3517742) has been accepted to CHI’2022. This paper offers the first computational analysis of child-welfare casenotes using NLP techniques and introduces them as a critical data source.
