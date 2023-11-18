@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 2nd year Ph.D. student at the University of Toronto. I work at the [Human-Centred Data Science Lab](https://hcds-uoft.ca) under Dr. Shion Guha and I am also a Junior Fellow at [Massey College](https://www.masseycollege.ca). 
 
-In my research, I explore decision-making in sociotechnical systems and the ramifications of introducing AI or similar data-driven systems in these domains. I am deeply interested in understanding how data and technology are used/can be used in Toronto's homeless support systems.
+In my research, I explore decision-making in sociotechnical systems and the ramifications of introducing AI in these domains. I am deeply interested in working closely with communities in Toronto to understand data and technology use in Toronto's homeless support systems.
 
 I hold a Master of Information from the University of Toronto and a Bachelor of Arts in Economics from the University of Chicago. 
 
