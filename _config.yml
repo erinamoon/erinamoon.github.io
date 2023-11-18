@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Erina Seh-Young Moon"
 title_separator          : "-"
 name                     : &name "Erina Seh-Young Moon"
-description              : &description "PhD student in Information at the University of Toronto"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD student at the University of Toronto"
+url                      : https://erinamoon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "erinamoon/erinamoon.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -54,9 +54,10 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+google_analytics: "G-W3L7P9VFX3"
 
 # Social Sharing
-twitter: 
+twitter:
   username               : &twitter
 facebook:
   username               :
@@ -75,20 +76,24 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-W3L7P9VFX3"
+
+
+
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Erina Seh-Young Moon"
+  avatar           : ""
+  bio              : "PhD student in Information at the University of Toronto"
+  location         : "Toronto, ON"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=rgK0jOgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  medium           :    
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +101,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :"https://www.linkedin.com/in/erinamoon/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/erinamoon/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/erina_smoon"
+  twitter          : "erina_smoon"
   vine             :
   weibo            :
   xing             :
@@ -187,6 +192,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -309,3 +315,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-minimal
