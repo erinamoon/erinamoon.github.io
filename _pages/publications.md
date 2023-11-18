@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 
 -Devansh Saxena, **Erina Seh-Young Moon**, Aryan Chaurasia, Yixin Guan, and Shion Guha. "Rethinking" Risk" in Algorithmic Systems Through A Computational Narrative Analysis of Casenotes in Child-Welfare." In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, pp. 1-19. 2023. Best Paper Award 🏆[View here](https://erinamoon.github.io/files/rethinkingrisk.pdf)
--Devansh Saxena, **Seh Young Moon**, Dahlia Shehata, and Shion Guha. "Unpacking invisible work practices, constraints, and latent power relationships in child welfare through casenote analysis." In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, pp. 1-22. 2022. [View here](https://erinamoon.github.io/files/unpacking.pdf)
+-Devansh Saxena, **Erina Seh Young Moon**, Dahlia Shehata, and Shion Guha. "Unpacking invisible work practices, constraints, and latent power relationships in child welfare through casenote analysis." In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, pp. 1-22. 2022. [View here](https://erinamoon.github.io/files/unpacking.pdf)
 
 
 ## Workshop Papers
