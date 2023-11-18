@@ -18,6 +18,6 @@ author_profile: true
 
 
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=TXXTPIkAAAAJ&hl=en) 
+You can also find my articles on my [Google Scholar profile](https://scholar.google.ca/citations?user=rgK0jOgAAAAJ&hl=en) 
 
-{% include base_path %}
+
