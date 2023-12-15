@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Find my CV here](http://erinamoon.github.io/files/MOON_CV__Copy__forgithub.pdf)
+[Find my CV here](http://erinamoon.github.io/files/.pdf)
