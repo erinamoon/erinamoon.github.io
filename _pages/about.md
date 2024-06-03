@@ -15,6 +15,8 @@ In my research, I explore decision-making in public sociotechnical systems and t
 I hold a Master of Information from the University of Toronto and a Bachelor of Arts in Economics from the University of Chicago. 
 
 ## Research News
+- I was selected as a 2024 Graduate Fellow at the Schwartz Reisman Institute for Technology and Society. Find out more [here](https://srinstitute.utoronto.ca/news/sri-announces-2024-fellowship-recipients)
+- I was awarded the Mary H. Beatty Fellowship for the second time this year 
 - Paper [“Beyond Predictive Algorithms in Child Welfare”](https://erinamoon.github.io/files/beyondpredictive.pdf) was accepted at GI’2024 
 - Paper [“A Human-Centered Review of Algorithms in Homelessness Research”](https://erinamoon.github.io/files/humancentredreview.pdf) was accepted at CHI’2024 
 - Our paper [“Rethinking “Risk” in Algorithmic Systems Through A Computational Narrative Analysis of Casenotes in Child-Welfare”](https://erinamoon.github.io/files/rethinkingrisk.pdf) was accepted at CHI’2023 and received the **Best Paper Award** 🏆
