@@ -7,8 +7,9 @@ author_profile: true
 
 ## Publications
 
-- Devansh Saxena, **Erina Seh-Young Moon**, Aryan Chaurasia, Yixin Guan, and Shion Guha. "Rethinking" Risk" in Algorithmic Systems Through A Computational Narrative Analysis of Casenotes in Child-Welfare." In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, pp. 1-19. 2023. Best Paper Award 🏆[View here](https://erinamoon.github.io/files/rethinkingrisk.pdf)
-- Devansh Saxena, **Erina Seh Young Moon**, Dahlia Shehata, and Shion Guha. "Unpacking invisible work practices, constraints, and latent power relationships in child welfare through casenote analysis." In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, pp. 1-22. 2022. [View here](https://erinamoon.github.io/files/unpacking.pdf)
+- **Erina Seh-Young Moon** and Shion Guha. "A Human-Centered Review of Algorithms in Homelessness Research." In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 870, 1–15. [View here]()
+- Devansh Saxena, **Erina Seh-Young Moon**, Aryan Chaurasia, Yixin Guan, and Shion Guha. 2023. Rethinking "Risk" in Algorithmic Systems Through A Computational Narrative Analysis of Casenotes in Child-Welfare. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 873, 1–19. https://doi.org/10.1145/3544548.3581308 Best Paper Award 🏆[View here](https://erinamoon.github.io/files/rethinkingrisk.pdf)
+- Devansh Saxena, **Erina Seh-Young Moon**, Dahlia Shehata, and Shion Guha. 2022. Unpacking Invisible Work Practices, Constraints, and Latent Power Relationships in Child Welfare through Casenote Analysis. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). Association for Computing Machinery, New York, NY, USA, Article 120, 1–22. https://doi.org/10.1145/3491102.3517742 [View here](https://erinamoon.github.io/files/unpacking.pdf)
 
 
 ## Workshop Papers
