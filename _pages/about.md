@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 3rd year Ph.D. student in the Faculty of Information at the University of Toronto. I am advised by [Dr. Shion Guha](https://shionguha.ca). I am a member of the [Human-Centred Data Science Lab](https://hcds-uoft.ca), a Junior Fellow at [Massey College](https://www.masseycollege.ca), and a 2024 graduate fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca). 
 
-In my research, I explore decision-making in public sociotechnical systems and the ramifications of introducing AI in these domains.
+In my research, I used mixed methods to explore decision-making in public sociotechnical systems and the ramifications of introducing AI in these domains. In my work, I strive to partner with communites and public agencies to examine how data and computational systems can augment and/or hinder decision-making within existing organizational infrastructures and its downstream impact on impacted stakeholders. 
 
 I hold a Master of Information from the University of Toronto and a Bachelor of Arts in Economics from the University of Chicago. 
 
