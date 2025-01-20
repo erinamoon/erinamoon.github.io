@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Ph.D. student in the Faculty of Information at the University of Toronto. I am advised by [Dr. Shion Guha](https://shionguha.ca). I am a member of the [Human-Centred Data Science Lab](https://hcds-uoft.ca), a Junior Fellow at [Massey College](https://www.masseycollege.ca), and a 2024 graduate fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca). 
+I am a 3rd year Ph.D. student in the Faculty of Information at the University of Toronto. I am advised by [Dr. Shion Guha](https://shionguha.ca). I am a member of the [Human-Centred Data Science Lab](https://hcds-uoft.ca), a Junior Fellow at [Massey College](https://www.masseycollege.ca), and a 2024-25 graduate fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca). 
 
 In my research, I used mixed methods to explore decision-making in public sociotechnical systems and the ramifications of introducing AI in these domains. In my work, I strive to partner with communites and public agencies to examine how data and computational systems can augment and/or hinder decision-making within existing organizational infrastructures and its downstream impact on impacted stakeholders. 
 
 I hold a Master of Information from the University of Toronto and a Bachelor of Arts in Economics from the University of Chicago. 
 
 ## Recent News
+-**2025** Our paper, "The Datafication of Care in Homelessness Services" was conditionally accepted to CHI'25. (More updates to follow). 
 - **2024** I was selected as a 2024 Graduate Fellow at the Schwartz Reisman Institute for Technology and Society. Find out more [here](https://srinstitute.utoronto.ca/news/sri-announces-2024-fellowship-recipients)
 - **2024** I received the 2024-25 Mary H. Beatty Fellowship again (I was awarded the fellowship in 2023-24 as well)
 - **2024** Paper [“Beyond Predictive Algorithms in Child Welfare”](https://erinamoon.github.io/files/beyondpredictive.pdf) was accepted at GI’2024 
