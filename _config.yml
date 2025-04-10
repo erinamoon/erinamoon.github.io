@@ -114,12 +114,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "erina_smoon"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "https://bsky.app/profile/erinamoon.bsky.social"
 
 
 # Reading Files
