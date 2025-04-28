@@ -15,7 +15,7 @@ In my research, I used mixed methods to explore decision-making in public sociot
 I hold a Master of Information from the University of Toronto and a Bachelor of Arts in Economics from the University of Chicago. 
 
 ## Recent News
-- **2025** Our paper, ["The Datafication of Care in Homelessness Services"](https://erinamoon.github.io/files/chi25.pdf) was accepted to CHI'25 and received the **Best Paper Honorable Mention Award** 🏆
+- **2025** Our paper, ["The Datafication of Care in Homelessness Services"](https://erinamoon.github.io/files/chi25.pdf) was accepted to CHI'25 and received the **Honorable Mention Award** 🏆
 - **2024** I was selected as a 2024 Graduate Fellow at the Schwartz Reisman Institute for Technology and Society. Find out more [here](https://srinstitute.utoronto.ca/news/sri-announces-2024-fellowship-recipients)
 - **2024** I received the 2024-25 Mary H. Beatty Fellowship again (I was awarded the fellowship in 2023-24 as well)
 - **2024** Paper [“Beyond Predictive Algorithms in Child Welfare”](https://erinamoon.github.io/files/beyondpredictive.pdf) was accepted at GI’2024 
