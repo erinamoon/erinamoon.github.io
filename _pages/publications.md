@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
--**Erina Seh-Young Moon**, Matthew Tamura, Angelina Zhai, Nuzaira Habib, Behnaz Shirazi, Altaf Kassam, Devansh Saxena, and Shion Guha. 2026. The Promises and Perils of using LLMs for Effective Public Services. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). Association for Computing Machinery, New York, NY, USA, Article 696, 1–21. [View here](https://erinamoon.github.io/files/chi26_preprint.pdf)
+- **Erina Seh-Young Moon**, Matthew Tamura, Angelina Zhai, Nuzaira Habib, Behnaz Shirazi, Altaf Kassam, Devansh Saxena, and Shion Guha. 2026. The Promises and Perils of using LLMs for Effective Public Services. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). Association for Computing Machinery, New York, NY, USA, Article 696, 1–21. [View here](https://erinamoon.github.io/files/chi26_preprint.pdf)
 - **Erina Seh-Young Moon**, Devansh Saxena, Dipto Das, and Shion Guha. 2025. The Datafication of Care in Public Homelessness Services. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). Association for Computing Machinery, New York, NY, USA, Article 829, 1–16. https://doi.org/10.1145/3706598.3713232 **Honorable Mention Award** 🏆[View here](https://erinamoon.github.io/files/chi25.pdf)
 - **Erina Seh-Young Moon**, Devansh Saxena, Dipto Das, and Shion Guha. 2025. The Datafication of Care in Public Homelessness Services. In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). Association for Computing Machinery, New York, NY, USA, Article 829, 1–16. https://doi.org/10.1145/3706598.3713232 **Honorable Mention Award** 🏆[View here](https://erinamoon.github.io/files/chi25.pdf)
 - **Erina Seh-Young Moon**, Devansh Saxena, Tegan Maharaj, and Shion Guha. 2024. "Beyond Predictive Algorithms in Child Welfare". In Proceedings of the 50th Graphics Interface Conference on Proceedings of Graphics Interface 2024 (GI'24) https://doi.org/10.1145/3670947.3670976 [View here](https://erinamoon.github.io/files/beyondpredictive.pdf)
@@ -22,7 +22,10 @@ author_profile: true
 
 ## Co-organized Worshops 
 
+- Devansh Saxena, **Erina Seh-Young Moon**, Anna Kawakami, Corey Jackson, Min Kyung Lee, Sarah E Fox, Shion Guha, Sheena Erete, and Jean Hardy. 2026. Participation, Procurement &amp; Proof of Impact in Public Sector AI Innovation. In Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26). Association for Computing Machinery, New York, NY, USA, Article 959, 1–6. https://doi.org/10.1145/3772363.3778739
+- Victoria Chui, Kelly McConvey, **Erina Seh-Young Moon**, Maya Ghai, and Shion Guha. 2025. Towards Sustainable Community-Designed AI Systems in the Public Sector. In Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '25). Association for Computing Machinery, New York, NY, USA, 837–840. https://doi.org/10.1145/3715335.3737683 
 - Devansh Saxena, Zoe Kahn, **Erina Seh-Young Moon**, Lauren Marietta Chambers, Corey Jackson, Min Kyung Lee, Motahhare Eslami, Shion Guha, Sheena Erete, Lilly Irani, Deirdre Mulligan, and John Zimmerman. 2025. Emerging Practices in Participatory AI Design in Public Sector Innovation. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25). Association for Computing Machinery, New York, NY, USA, Article 777, 1–7. https://doi.org/10.1145/3706599.3706727
+
 
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.ca/citations?user=rgK0jOgAAAAJ&hl=en) 
